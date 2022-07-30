@@ -12,7 +12,7 @@ A <b>Javascript developer</b> with high curiosity in <b>Javascript</b> and <b>Fr
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=16> Looking for new challenges and oppurtunities.
 - 💬 Feel free to ask me about anything.
 
-⚡ Let's connect
+⚡ <b>Let's connect</b>
 
 <div>
     <a target="_blank" href="https://www.linkedin.com/in/ozgurcanaltinok"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
