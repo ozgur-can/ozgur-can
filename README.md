@@ -5,7 +5,7 @@ A <b>Javascript developer</b> with high curiosity in <b>Javascript</b> and <b>Fr
 <hr>
 
 - 🎓 Completed <b>Computer Science</b> bachelor degree in 2020
-- 💻 Worked on <b>front-end</b>, <b>game</b> and <b>back-end</b> side with using <b>Javascript</b>
+- 💻 Worked on <b>front-end</b>, <b>game</b> and <b>back-end</b> side using <b>Javascript</b>
 - 😀 <b>Fast learner</b> who love <b>simplicity</b> in code but I don't see Front-End only just HTML & CSS, it's a lot more than!
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=16> A <b>React</b> fan, and I have a lot of projects created with it in my repos, you can check them out!
 - 🌍 I’m currently learning <b>Angular</b> and <b>Vue</b>.
