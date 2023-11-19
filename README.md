@@ -1,16 +1,11 @@
-<h3 align="center"> <b>Heyy</b> 👋</h3>
-<h4 align="center"><b>I'm Özgür,</b></h4>
+<h3 align="center"> <b>Hello there! 👋 I'm Özgür</b></h3>
+<h5 align="center"><b>A Data Science Enthusiast with a Software Development Background</b></h5>
 <br/>
-A <b>Javascript developer</b> with high curiosity in <b>Javascript</b> and <b>Front-End</b> technologies with 2 years of work experience in web apps.
-<hr>
+<p align="center">-- After starting my career as a Software Developer, I've had the opportunity to work on various projects and technologies, which allowed me to learn and grow.</p>
 
-- 🎓 Completed <b>Computer Science</b> bachelor degree in 2020
-- 💻 Worked on <b>front-end</b>, <b>game</b> and <b>back-end</b> side using <b>Javascript</b>
-- 😀 <b>Fast learner</b> who love <b>simplicity</b> in code. Even I like this idea, I don't see the Front-End as just plain HTML & CSS like most others, it's a lot more than!
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=16> A <b>React</b> fan, and I have a lot of projects created with it in my repos, you can check them out!
-- 🌍 I’m currently learning <b>Angular</b>, <b>Svelte</b> and <b>Vue</b>.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=16> Looking for new <b>challenges</b> and <b>oppurtunities</b>.
-- 💬 Feel <b>free to ask</b> me about anything.
+<p align="center">As a participant in the Miuul Data Science Bootcamp 2023, I am diving into the world of Data Science and Machine Learning, exploring new horizons and looking forward to contributing to data-related projects.</p>
+
+<hr>
 
 ⚡ <b>Let's connect</b>
 
