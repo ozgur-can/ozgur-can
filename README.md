@@ -4,6 +4,6 @@
 
 Currently freelancing, I've worked across various sectors, including banking, gaming, e-commerce, and logistics.
 
-- ⌨️ **Daily Tools**: `.svelte`, `.ts`, `.js`
-- ✦ **Interests**: Simplicity in design, automation processes, data, and more.
-- 💬 **Let’s Connect**: Feel free to ping me about **Svelte**, **SvelteKit**, **MVP**, **web apps**, **mobile apps**, or **ML Apps**.
+- ⌨️ I use daily: `.svelte`, `.ts`, `.js`
+- ✦ Interest about simplicity, automation, data, and more.
+- 💬 Feel free to ping me about **Svelte**, **SvelteKit**, **MVP**, **Web Apps**, **Mobile Apps**, **ML Apps**
