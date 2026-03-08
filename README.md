@@ -1,9 +1,15 @@
 ### Hello there! 👋
 
-#### Senior Frontend Developer with a CS Degree
+#### Founder @ Raktive · Software Developer
 
-Currently freelancing, I've worked across various sectors, including banking, gaming, e-commerce, and logistics.
+Building gamified conversion tools for e-commerce merchants.
 
-- ⌨️ I use daily: `.svelte`, `.ts`, `.js`
-- ✦ Interest about simplicity, automation, data, and more.
-- 💬 Feel free to ping me about **Svelte**, **SvelteKit**, **MVP**, **Web Apps**, **Mobile Apps**, **ML Apps**
+- 🎯 Focus: **E-commerce**, **Gamification**, **ikas**, **Shopify**
+- 🛒 Platforms: ikas, Shopify, Wix, İdeasoft, Ticimax, Softtr, Magento, WooCommerce, etc. 
+
+<p style="margin-top: 16px; font-size: 14px;">
+  <strong><a href="https://raktive.com/?ref=github&campaign=profile">Website</a></strong> |
+  <strong><a href="https://linkedin.com/in/ozgurcanaltinok">LinkedIn</a></strong> |
+  <strong><a href="https://youtube.com/@raktive">Youtube</a></strong> |
+  <strong><a href="https://instagram.com/raktivestudio">Instagram</a></strong>
+</p>
